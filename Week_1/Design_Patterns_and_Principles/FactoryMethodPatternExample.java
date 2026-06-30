@@ -55,6 +55,7 @@ class ExcelDocumentFactory extends DocumentFactory {
 
 class FactoryMethodPatternExample {
   public static void main(String[] args) {
+    // Open for extension but closed for modification
     DocumentFactory excelFactory = new ExcelDocumentFactory();
     Document excel = excelFactory.createDocument();
     excel.open();
