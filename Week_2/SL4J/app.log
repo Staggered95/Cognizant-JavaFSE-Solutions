@@ -1,0 +1,8 @@
+18:33:43.963 [com.solution.ExerciseThree.main()] DEBUG com.solution.ExerciseThree - System diagnostic: Memory check passed.
+18:33:43.964 [com.solution.ExerciseThree.main()] INFO  com.solution.ExerciseThree - Application startup sequence initiated.
+18:33:43.964 [com.solution.ExerciseThree.main()] WARN  com.solution.ExerciseThree - Deprecation warning: Using old API endpoint.
+18:33:43.964 [com.solution.ExerciseThree.main()] ERROR com.solution.ExerciseThree - FATAL: Database connection lost!
+18:38:08.654 [com.solution.ExerciseThree.main()] DEBUG com.solution.ExerciseThree - System diagnostic: Memory check passed.
+18:38:08.655 [com.solution.ExerciseThree.main()] INFO  com.solution.ExerciseThree - Application startup sequence initiated.
+18:38:08.655 [com.solution.ExerciseThree.main()] WARN  com.solution.ExerciseThree - Deprecation warning: Using old API endpoint.
+18:38:08.655 [com.solution.ExerciseThree.main()] ERROR com.solution.ExerciseThree - FATAL: Database connection lost!
