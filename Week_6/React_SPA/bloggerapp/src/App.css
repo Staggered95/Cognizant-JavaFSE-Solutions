@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+/* Specific class names from the assignment hints */
+.mystyle1 {
+    text-align: left;
+    min-width: 200px;
+}
+
+.st2 {
+    border-left: 4px solid green;
+    border-right: 4px solid green;
+    padding: 0 50px;
+    text-align: left;
+    min-width: 200px;
+}
+
+.v1 {
+    text-align: left;
+    min-width: 200px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
